@@ -15,7 +15,7 @@
 		<engine name="cordova" version=">=6.0.0" />
 	</engines>
 
-	<dependency id="cordova-support-google-services" />
+<!-- 	<dependency id="cordova-support-google-services" /> -->
 
 	<js-module src="www/SMSRetriever.js" name="SMSRetriever">
 		<clobbers target="window.SMSRetriever" />
